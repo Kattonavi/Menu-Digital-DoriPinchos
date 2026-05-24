@@ -1,7 +1,7 @@
 import type { Category, Product } from "@/types/menu";
 
 export const BUSINESS = {
-  name: "Dripinchos",
+  name: "Doripinchos",
   tagline: "Comida rápida con sabor brutal, preparada para antojos serios.",
   whatsapp: "573132726775",
   whatsappDisplay: "313 272 6775",
