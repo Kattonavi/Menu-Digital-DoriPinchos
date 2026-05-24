@@ -2,20 +2,20 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Dripinchos | Menú Digital",
+  title: "Doripinchos | Menú Digital",
   description:
     "Menú digital de comidas rápidas Dripinchos. Hamburguesas, perros, salchipapas, doritos, arepas, burrilocos, papas locas, pinchos y bebidas.",
   openGraph: {
-    title: "Dripinchos | Menú Digital",
+    title: "Doripinchos | Menú Digital",
     description:
       "Comida rápida con sabor brutal, preparada para antojos serios. Hamburguesas, perros, salchipapas, doritos, arepas y más.",
     type: "website",
     locale: "es_CO",
-    siteName: "Dripinchos",
+    siteName: "Doripinchos",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dripinchos | Menú Digital",
+    title: "Doripinchos | Menú Digital",
     description:
       "Comida rápida con sabor brutal, preparada para antojos serios.",
   },
