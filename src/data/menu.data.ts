@@ -330,7 +330,7 @@ export const PRODUCTS: Product[] = [
   { id: "be-hit", name: "Jugo Hit", price: 3500, category: "bebidas" },
   {
     id: "be-tamarindo",
-    name: "Tamarindo Preparado",
+    name: "Tamarindo Preparada",
     price: 5500,
     category: "bebidas",
   },
